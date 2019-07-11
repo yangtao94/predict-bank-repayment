@@ -32,9 +32,16 @@ jupyter notebook
 in the Anaconda terminal to open up the jupyter notebook
 
 If you can't seem to open up jupyter notebook on github, go to https://nbviewer.jupyter.org/ and paste the github link in there.
-### Installing
 
 
 ## Usage <a name = "usage"></a>
 After running training.py and testing.py, two new files will be created. Run kaggle.py to output a file containing the predicted results
+
+```
+python training.py
+
+python testing.py
+
+python kaggle.py
+```
 
