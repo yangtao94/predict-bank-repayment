@@ -1,12 +1,3 @@
-# predict-bank-repayment
-Decision Tree model to predict if bank loans are being repaid.
-
-Data is first being cleaned and saved to another .csv files
-
-Then the model is trained using data from the clean .csv file. 
-
-Adaboost is used during learning.
-
 
 # Predict Bank Loan Repayment
 
@@ -37,7 +28,10 @@ Install <a href= "https://www.anaconda.com/distribution/">Anaconda</a> and the r
 ```
 jupyter notebook
 ```
+
 in the Anaconda terminal to open up the jupyter notebook
+
+If you can't seem to open up jupyter notebook on github, go to https://nbviewer.jupyter.org/ and paste the github link in there.
 ### Installing
 
 
