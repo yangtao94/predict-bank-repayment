@@ -5,7 +5,7 @@
 + [About](#about)
 + [Getting Started](#getting_started)
 + [Usage](#usage)
-+ [Contributing](../CONTRIBUTING.md)
+
 
 ## About <a name = "about"></a>
 A machine learning model to predict if bank loans are being repaid (Binary Classification). Utilized Adaboost with decision tree as the weak classifier. Top 20 placing in <a href = "https://imgur.com/CINwpWB">Kaggle Competition</a>
